@@ -86,5 +86,5 @@ The Forth-based Collapse OS is the second incarnation of the concept. The first
 one was entirely written in z80 assembly. If you're interested in that
 incarnation, checkout the `z80asm` branch.
 
-[web]: https://collapseos.org
+[web]: http://collapseos.org
 [jsemul]: https://schierlm.github.io/CollapseOS-Web-Emulator/
