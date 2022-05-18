@@ -1,4 +1,5 @@
 # Collapse OS
+[Читать на русском языке](https://github.com/VitaSound/collapseos/wiki)
 
 *Bootstrap post-collapse technology*
 
